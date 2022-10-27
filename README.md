@@ -11,6 +11,7 @@
 <h3>Estudo de ratreamento de objetos feito durante um curso.</h3>
 <h3>Study of objects tracking.</h3>
 
+> <h3>✔️Tecnologias utilizadas/Technologies used</h3>
 - [Python 3.9](https://www.python.org/)
 - [OpenCV](https://opencv.org/)
 
